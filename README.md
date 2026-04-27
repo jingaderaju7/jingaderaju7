@@ -1,15 +1,19 @@
-Hi there, I'm Raju 👋
-About Me 🚀
+# Hi there, I'm Raju 👋
+
+## About Me 🚀
+
 🎓 B.E. Information Science & Engineering @ STJIT, Ranebennur (2022–2026)
+
 💼 Machine Learning & Generative AI Intern @ Contriver
+
 🌍 From Karnataka, India
 
 - 🔭 I'm currently working on **Machine Learning** and **Generative AI** projects
 - 🌱 I'm currently learning **Advanced ML**, **Deep Learning**, and **Full-Stack Development**
 - 👯 I'm looking to collaborate on **AI/ML** and **Web Development** projects
 - 💬 Ask me about **Python, Machine Learning, Web Development**
-- 📫 How to reach me: [jingaderaju7@gmail.com](mailto:jingaderaju7@gmail.com)
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: jingaderaju7@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **E-Gaming**, **Editing**, and **Traveling**
 
 ---
