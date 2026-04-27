@@ -1,3 +1,8 @@
+Hi there, I'm Raju 👋
+About Me 🚀
+🎓 B.E. Information Science & Engineering @ STJIT, Ranebennur (2022–2026)
+💼 Machine Learning & Generative AI Intern @ Contriver
+🌍 From Karnataka, India
 
 - 🔭 I'm currently working on **Machine Learning** and **Generative AI** projects
 - 🌱 I'm currently learning **Advanced ML**, **Deep Learning**, and **Full-Stack Development**
