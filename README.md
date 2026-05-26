@@ -1,5 +1,5 @@
-Hi there, I'm Raju 👋
-About Me 🚀
+#Hi there, I'm Raju 👋
+#About Me 🚀
 🎓 B.E. Information Science & Engineering @ STJIT, Ranebennur (2022–2026)
 
 💼 Machine Learning & Generative AI Intern @ Contriver
