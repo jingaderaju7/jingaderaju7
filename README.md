@@ -74,7 +74,7 @@
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 1 | [Agriculture Management System](https://github.com/jingaderaju7) | Digital marketplace for farmers to buy/sell crops & supplies | Web Dev |
+| 1 | [Freight Demand Forecasting](https://github.com/jingaderaju7/Freight-Demand-Forecasting) | ML-based system to predict future shipment demand using historical invoice, payment, and transactional data | Python, ML, Data Analysis |
 | 2 | [AI Chatbot](https://github.com/jingaderaju7) | Intelligent chatbot using Google's AI engine via API | Python, API |
 | 3 | [Product Description Generator](https://github.com/jingaderaju7) | AI-powered tool for generating e-commerce product descriptions | NLP, AI |
 | 4 | [Habit Tracker](https://github.com/jingaderaju7) | Track daily habits with ML-powered insights & progress visualization | Python, ML |
@@ -85,7 +85,7 @@
 
 | Institution | Program | Score | Year |
 |-------------|---------|-------|------|
-| STJIT, Ranebennur | B.E. Information Science & Engineering | Pursuing | 2022–2026 |
+| STJIT, Ranebennur | B.E. Information Science & Engineering | **8.0 CGPA** | 2022–2026 |
 | Agustya PU College, Haveri | Pre-University (PCMB) | **72%** | 2020–2022 |
 | Govt High School, Hediggonda | SSLC | **85.6%** | 2019–2020 |
 
